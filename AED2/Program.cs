@@ -140,7 +140,7 @@ namespace AED2
             urun[4].stok = 6;
 
             urun[5] = new urunler();
-            urun[5].ID = 7;
+            urun[5].ID = 6;
             urun[5].adı = "Lego Seti";
             urun[5].kategoriID = 1;
             urun[5].fiyat = 849.90;
@@ -148,7 +148,7 @@ namespace AED2
             urun[5].stok = 10;
 
             urun[6] = new urunler();
-            urun[6].ID = 8;
+            urun[6].ID = 7;
             urun[6].adı = "Tahta Bloklar";
             urun[6].kategoriID = 1;
             urun[6].fiyat = 179.90;
@@ -156,7 +156,7 @@ namespace AED2
             urun[6].stok = 20;
 
             urun[7] = new urunler();
-            urun[7].ID = 9;
+            urun[7].ID = 8;
             urun[7].adı = "Puzzle";
             urun[7].kategoriID = 1;
             urun[7].fiyat = 89.90;
@@ -164,7 +164,7 @@ namespace AED2
             urun[7].stok = 15;
 
             urun[8] = new urunler();
-            urun[8].ID = 10;
+            urun[8].ID = 9;
             urun[8].adı = "Oyun Hamuru Seti";
             urun[8].kategoriID = 1;
             urun[8].fiyat = 159.90;
@@ -172,7 +172,7 @@ namespace AED2
             urun[8].stok = 25;
 
             urun[9] = new urunler();
-            urun[9].ID = 11;
+            urun[9].ID = 10;
             urun[9].adı = "Barbie Bebek";
             urun[9].kategoriID = 1;
             urun[9].fiyat = 399.90;
